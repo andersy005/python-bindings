@@ -34,6 +34,7 @@ dependencies:
   - bzip2=1.0.6=1
   - ca-certificates=2018.4.16=0
   - certifi=2018.4.16=py36_0
+  - cffi=1.11.5=py36_0
   - cftime=1.0.0=py36_0
   - click=6.7=py_1
   - cloudpickle=0.5.3=py_0
@@ -138,6 +139,7 @@ dependencies:
   - py=1.5.4=py_0
   - pyarrow=0.9.0=py36hfc679d8_2
   - pybind11=2.2.3=py36_0
+  - pycparser=2.18=py_1
   - pygments=2.2.0=py_1
   - pyparsing=2.2.0=py_1
   - pyqt=5.6.0=py36h8210e8a_6
